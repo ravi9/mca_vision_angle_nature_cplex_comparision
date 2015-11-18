@@ -1,0 +1,191 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 50 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 50 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+ImageFile =
+
+Data/S004I00D.PGM.atts
+
+
+sparsityVal =
+
+    98
+
+
+elapsedTime =
+
+    0.1079
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 0.0017
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.1079
+
+
+elapsedTime =
+
+    0.0263
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 9.0909e-04
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.0263
+
+
+ImageFile =
+
+Data/S004I00E.PGM.atts
+
+
+sparsityVal =
+
+    98
+
+
+elapsedTime =
+
+    0.0582
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 0.0011
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.0582
+
+
+elapsedTime =
+
+    0.0534
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 0.0011
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.0534
+
+>> 

@@ -1,0 +1,133 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 51 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 51 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+Failed to find closing '>' (line 6352) while loading toolbox cache.
+Error occurred loading: /home/r/ravi1/.matlab/R2013b/toolbox_cache-8.2.0-234978524-glnxa64.xml
+Cache file ignored.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+ImageFile =
+
+Data/zebra_b.pgm.atts
+
+
+sparsityVal =
+
+    96
+
+
+elapsedTime =
+
+    0.1417
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 0.0019
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.1417
+
+
+elapsedTime =
+
+    0.0561
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 0.0012
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.0561
+
+
+ImageFile =
+
+Data/
+
+
+sparsityVal =
+
+    96
+
+{Error using csvread (line 35)
+File not found.
+
+Error in cplexQuadprog_grid2 (line 19)
+AffMat = csvread([affMatDir filesep  'affMat_' imageName '.csv']);
+
+Error in rp_gridMain_Run2Img (line 5)
+cplexQuadprog_grid2(['Data' filesep img2], img2, Sparsity);
+} 
+>> 

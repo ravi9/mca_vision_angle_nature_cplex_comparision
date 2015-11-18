@@ -1,0 +1,592 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 51 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 51 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+Failed to find closing '>' (line 6352) while loading toolbox cache.
+Error occurred loading: /home/r/ravi1/.matlab/R2013b/toolbox_cache-8.2.0-234978524-glnxa64.xml
+Cache file ignored.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+ImageFile =
+
+Data/010.pgm.atts
+
+
+sparsityVal =
+
+    98
+
+
+elapsedTime =
+
+    0.2221
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 0.0205
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.2221
+
+
+elapsedTime =
+
+   15.4980
+
+
+x =
+
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     1
+     1
+     0
+     1
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+     1
+     1
+     1
+     0
+     1
+     0
+     0
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     1
+     1
+     0
+     1
+     0
+     0
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     0
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     0
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+
+
+fval =
+
+  376.7750
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+          cplexstatus: 101
+    cplexstatusstring: 'integer optimal solution'
+           iterations: 2294
+            algorithm: 12
+                 time: 15.4778
+              message: 'Function converged to a solution x.'
+
+
+elapsedTime =
+
+   15.4980
+
+
+ImageFile =
+
+Data/019.pgm.atts
+
+
+sparsityVal =
+
+    98
+
+
+elapsedTime =
+
+    0.0348
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 8.8406e-04
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.0348
+
+
+elapsedTime =
+
+    0.0317
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 9.5105e-04
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.0317
+
+>> 

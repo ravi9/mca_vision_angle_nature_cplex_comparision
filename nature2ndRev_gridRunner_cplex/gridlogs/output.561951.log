@@ -1,0 +1,571 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 51 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 51 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+ImageFile =
+
+Data/S005I003.pgm.atts
+
+
+sparsityVal =
+
+    96
+
+
+elapsedTime =
+
+    2.3163
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 0.0086
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    2.3163
+
+
+elapsedTime =
+
+   26.2546
+
+
+x =
+
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     1
+     0
+     0
+     0
+     0
+     1
+     1
+     0
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     0
+     1
+     0
+     1
+     1
+     0
+     0
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     0
+     0
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     0
+     1
+     0
+     1
+     0
+     0
+     1
+     1
+     0
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     0
+     0
+
+
+fval =
+
+   1.1875e+03
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+          cplexstatus: 101
+    cplexstatusstring: 'integer optimal solution'
+           iterations: 4044
+            algorithm: 12
+                 time: 26.2149
+              message: 'Function converged to a solution x.'
+
+
+elapsedTime =
+
+   26.2546
+
+
+ImageFile =
+
+Data/S005I004.pgm.atts
+
+
+sparsityVal =
+
+    96
+
+
+elapsedTime =
+
+    0.0130
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 9.9206e-04
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.0130
+
+
+elapsedTime =
+
+    0.0121
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 9.4509e-04
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.0121
+
+>> 

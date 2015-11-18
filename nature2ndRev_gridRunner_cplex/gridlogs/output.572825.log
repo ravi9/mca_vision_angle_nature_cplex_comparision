@@ -1,0 +1,194 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 50 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 50 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+Encountered unexpected end-of-file (line 28577) while loading toolbox cache.
+Error occurred loading: /home/r/ravi1/.matlab/R2013b/toolbox_cache-8.2.0-234978524-glnxa64.xml
+Cache file ignored.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+ImageFile =
+
+Data/giraffe.pgm.atts
+
+
+sparsityVal =
+
+    98
+
+
+elapsedTime =
+
+    0.4530
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 0.0186
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.4530
+
+
+elapsedTime =
+
+    0.0745
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 0.0097
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.0745
+
+
+ImageFile =
+
+Data/goldenbackedwoodpecker.pgm.atts
+
+
+sparsityVal =
+
+    98
+
+
+elapsedTime =
+
+    0.0504
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 0.0110
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.0504
+
+
+elapsedTime =
+
+    0.0431
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 8.0490e-04
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.0431
+
+>> 

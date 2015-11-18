@@ -1,0 +1,403 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 51 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 51 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+ImageFile =
+
+Data/image35.pgm.atts
+
+
+sparsityVal =
+
+    96
+
+
+elapsedTime =
+
+    0.6024
+
+
+x =
+
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     0
+     0
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     0
+     1
+     0
+     1
+     1
+     0
+     1
+     0
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     1
+     1
+     1
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     1
+     1
+     0
+     0
+     0
+     1
+     1
+     1
+     1
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+
+
+fval =
+
+  152.6340
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+          cplexstatus: 101
+    cplexstatusstring: 'integer optimal solution'
+           iterations: 455
+            algorithm: 12
+                 time: 0.5015
+              message: 'Function converged to a solution x.'
+
+
+elapsedTime =
+
+    0.6024
+
+
+ImageFile =
+
+Data/image36.pgm.atts
+
+
+sparsityVal =
+
+    96
+
+
+elapsedTime =
+
+    1.3266
+
+
+x =
+
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     1
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     1
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     1
+     1
+     0
+     0
+     0
+     0
+     1
+     1
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+
+
+fval =
+
+  573.0750
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+          cplexstatus: 101
+    cplexstatusstring: 'integer optimal solution'
+           iterations: 882
+            algorithm: 12
+                 time: 1.3180
+              message: 'Function converged to a solution x.'
+
+
+elapsedTime =
+
+    1.3266
+
+>> 

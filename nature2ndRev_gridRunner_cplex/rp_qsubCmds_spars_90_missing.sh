@@ -1,0 +1,29 @@
+#!/bin/bash
+sbatch -J McaVision_5_6_sparsity_90 rp_bashRun2Images.sh '020.pgm.atts' '' 90
+sbatch -J McaVision_7_8_sparsity_90 rp_bashRun2Images.sh '101.pgm.atts' '' 90
+sbatch -J McaVision_9_10_sparsity_90 rp_bashRun2Images.sh '108.pgm.atts' '' 90
+sbatch -J McaVision_11_12_sparsity_90 rp_bashRun2Images.sh '110.pgm.atts' '' 90
+sbatch -J McaVision_13_14_sparsity_90 rp_bashRun2Images.sh '125.pgm.atts' '' 90
+sbatch -J McaVision_15_16_sparsity_90 rp_bashRun2Images.sh '202.pgm.atts' '' 90
+sbatch -J McaVision_17_18_sparsity_90 rp_bashRun2Images.sh '203.pgm.atts' '' 90
+sbatch -J McaVision_19_20_sparsity_90 rp_bashRun2Images.sh '216.pgm.atts' '' 90
+sbatch -J McaVision_21_22_sparsity_90 rp_bashRun2Images.sh '217.pgm.atts' '' 90
+sbatch -J McaVision_23_24_sparsity_90 rp_bashRun2Images.sh '217095.pgm.atts' '' 90
+sbatch -J McaVision_25_26_sparsity_90 rp_bashRun2Images.sh '222.pgm.atts' '' 90
+sbatch -J McaVision_27_28_sparsity_90 rp_bashRun2Images.sh '223.PGM.atts' '' 90
+sbatch -J McaVision_59_60_sparsity_90 rp_bashRun2Images.sh 'airfield_edges.pgm.atts' '' 90
+sbatch -J McaVision_61_62_sparsity_90 rp_bashRun2Images.sh 'airplane.pgm.atts' '' 90
+sbatch -J McaVision_71_72_sparsity_90 rp_bashRun2Images.sh 'golfcart.pgm.atts' '' 90
+sbatch -J McaVision_73_74_sparsity_90 rp_bashRun2Images.sh 'homes.pgm.atts' '' 90
+sbatch -J McaVision_85_86_sparsity_90 rp_bashRun2Images.sh 'largebuilding.pgm.atts' '' 90
+sbatch -J McaVision_87_88_sparsity_90 rp_bashRun2Images.sh 'mailbox.pgm.atts' '' 90
+sbatch -J McaVision_93_94_sparsity_90 rp_bashRun2Images.sh 'school.pgm.atts' '' 90
+sbatch -J McaVision_95_96_sparsity_90 rp_bashRun2Images.sh 'series.pgm.atts' '' 90
+sbatch -J McaVision_95_96_sparsity_90 rp_bashRun2Images.sh 'tiger.pgm.atts' '' 90
+sbatch -J McaVision_97_98_sparsity_90 rp_bashRun2Images.sh 'tiger_m.pgm.atts' '' 90
+sbatch -J McaVision_97_98_sparsity_90 rp_bashRun2Images.sh 'woods.pgm.atts' '' 90
+sbatch -J McaVision_99_100_sparsity_90 rp_bashRun2Images.sh 'zebra1.pgm.atts' '' 90
+sbatch -J McaVision_17_18_sparsity_95 rp_bashRun2Images.sh '216.pgm.atts' '' 95
+sbatch -J McaVision_17_18_sparsity_95 rp_bashRun2Images.sh '222.pgm.atts' '' 95
+sbatch -J McaVision_17_18_sparsity_95 rp_bashRun2Images.sh '223.pgm.atts' '' 95
+

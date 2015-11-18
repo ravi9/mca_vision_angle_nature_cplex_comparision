@@ -1,0 +1,130 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 50 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 50 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+ImageFile =
+
+Data/zebra_b.pgm.atts
+
+
+sparsityVal =
+
+    98
+
+
+elapsedTime =
+
+    0.2207
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 0.0108
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.2207
+
+
+elapsedTime =
+
+    0.1196
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 0.0146
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.1196
+
+
+ImageFile =
+
+Data/
+
+
+sparsityVal =
+
+    98
+
+{Error using csvread (line 35)
+File not found.
+
+Error in cplexQuadprog_grid2 (line 19)
+AffMat = csvread([affMatDir filesep  'affMat_' imageName '.csv']);
+
+Error in rp_gridMain_Run2Img (line 5)
+cplexQuadprog_grid2(['Data' filesep img2], img2, Sparsity);
+} 
+>> 

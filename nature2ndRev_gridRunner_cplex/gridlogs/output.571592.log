@@ -1,0 +1,669 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 50 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 50 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+ImageFile =
+
+Data/image10.pgm.atts
+
+
+sparsityVal =
+
+    98
+
+
+elapsedTime =
+
+    6.2366
+
+
+x =
+
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     0
+     0
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     0
+     1
+     0
+     1
+     0
+     1
+     0
+     1
+     1
+     0
+     1
+     1
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     1
+     0
+     1
+     0
+     0
+     1
+     0
+     1
+     1
+     0
+     0
+     0
+     0
+     1
+     1
+     1
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     1
+     0
+     0
+     0
+     1
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+     1
+     1
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+
+
+fval =
+
+  664.0270
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+          cplexstatus: 101
+    cplexstatusstring: 'integer optimal solution'
+           iterations: 1133
+            algorithm: 12
+                 time: 6.1436
+              message: 'Function converged to a solution x.'
+
+
+elapsedTime =
+
+    6.2366
+
+
+ImageFile =
+
+Data/image12.pgm.atts
+
+
+sparsityVal =
+
+    98
+
+
+elapsedTime =
+
+    0.0117
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 7.2908e-04
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.0117
+
+
+elapsedTime =
+
+   34.4224
+
+
+x =
+
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     1
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     1
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     1
+     1
+     0
+     0
+     0
+     0
+     1
+     1
+     0
+     1
+     0
+     1
+     1
+     0
+     0
+     0
+     0
+     1
+     1
+     1
+     0
+     1
+     0
+     1
+     0
+     1
+     1
+     0
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     0
+     0
+     1
+     0
+     1
+     1
+     0
+     1
+     1
+     0
+     1
+     1
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     1
+     0
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     0
+     0
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+
+
+fval =
+
+  164.4405
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+          cplexstatus: 101
+    cplexstatusstring: 'integer optimal solution'
+           iterations: 1053
+            algorithm: 12
+                 time: 34.4142
+              message: 'Function converged to a solution x.'
+
+
+elapsedTime =
+
+   34.4224
+
+>> 

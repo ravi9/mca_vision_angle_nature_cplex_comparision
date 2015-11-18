@@ -1,0 +1,711 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 50 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+    ----------------------------------------------------
+	Your MATLAB license will expire in 50 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+ImageFile =
+
+Data/image24.pgm.atts
+
+
+sparsityVal =
+
+    98
+
+
+elapsedTime =
+
+    0.2066
+
+
+x =
+
+     []
+
+
+fval =
+
+     []
+
+
+exitflag =
+
+    -2
+
+
+output = 
+
+          cplexstatus: 103
+    cplexstatusstring: 'integer infeasible'
+           iterations: 0
+            algorithm: 12
+                 time: 0.0069
+              message: 'No feasible point was found.'
+
+
+elapsedTime =
+
+    0.2066
+
+
+elapsedTime =
+
+    2.0087
+
+
+x =
+
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     1
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     1
+     1
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     1
+     1
+     0
+     1
+     1
+     0
+     0
+     0
+     0
+     1
+     1
+     0
+     0
+     1
+     0
+     0
+     1
+     1
+     0
+     1
+     1
+     0
+     0
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     0
+     0
+     0
+     1
+     0
+     1
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     1
+     1
+     0
+     0
+     0
+     1
+     1
+     0
+     0
+     1
+     1
+     0
+     1
+     1
+     0
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     0
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     1
+     1
+     0
+     0
+     1
+
+
+fval =
+
+  309.2400
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+          cplexstatus: 101
+    cplexstatusstring: 'integer optimal solution'
+           iterations: 1680
+            algorithm: 12
+                 time: 1.9922
+              message: 'Function converged to a solution x.'
+
+
+elapsedTime =
+
+    2.0087
+
+
+ImageFile =
+
+Data/image25.pgm.atts
+
+
+sparsityVal =
+
+    98
+
+
+elapsedTime =
+
+    1.2371
+
+
+x =
+
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     0
+     1
+     1
+     1
+     1
+     1
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     0
+     1
+     1
+     0
+     0
+     1
+     1
+     1
+     1
+     0
+     0
+     1
+     1
+     0
+     1
+     1
+     1
+     0
+     0
+     1
+     1
+     1
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+     1
+     1
+     0
+     1
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     0
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     0
+     0
+     1
+     1
+     0
+     0
+     0
+     1
+     1
+     1
+     1
+     1
+     0
+     1
+     0
+     1
+     0
+     0
+     0
+     1
+     1
+     1
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     1
+     1
+     1
+     1
+     0
+     0
+     1
+     0
+     1
+     1
+     0
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     1
+     1
+     1
+     0
+     1
+     1
+     0
+     1
+     1
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     1
+     1
+     0
+     0
+     1
+     1
+     0
+     1
+     0
+     1
+     1
+     1
+     0
+     0
+     0
+     1
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     1
+     0
+     0
+     0
+     1
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+
+
+fval =
+
+  695.6910
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+          cplexstatus: 101
+    cplexstatusstring: 'integer optimal solution'
+           iterations: 994
+            algorithm: 12
+                 time: 1.2224
+              message: 'Function converged to a solution x.'
+
+
+elapsedTime =
+
+    1.2371
+
+>> 
